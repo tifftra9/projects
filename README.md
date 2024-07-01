@@ -1,7 +1,7 @@
 ## School Projects
 Courses: STA 108, STA 141A
 
-### Finding Predcitors of Life Expectancy for Multiple Regression
+### Finding Predictors of Life Expectancy for Multiple Regression
 for STA 108 (Fall 2023) @ UCD, Individual
 - use of model selection algorithms to determine a parsimonious model
 - residual analysis of models, including asssesing transformations
